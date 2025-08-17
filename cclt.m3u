@@ -1,47 +1,47 @@
 #EXTM3U tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="CCTV-1综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/1.png" group-title="央视频道",CCTV-1综合
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/1.png" group-title="央视频道",CCTV1综合
 http://222.161.218.244/PLTV/88888888/224/3221225620/10000100000000060000000014261464_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/2.png" group-title="央视频道",CCTV-2财经
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/2.png" group-title="央视频道",CCTV2财经
 http://222.161.218.244/PLTV/88888888/224/3221225799/10000100000000060000000014274939_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-3综艺" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/3.png" group-title="央视频道",CCTV-3综艺
+#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/3.png" group-title="央视频道",CCTV3综艺
 http://222.161.218.244/PLTV/88888888/224/3221226127/10000100000000060000000015558809_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-4中文国际" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/4.png" group-title="央视频道",CCTV-4中文国际
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/4.png" group-title="央视频道",CCTV4中文国际
 http://222.161.218.244/PLTV/88888888/224/3221226245/10000100000000060000000016631556_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-5体育" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/5.png" group-title="央视频道",CCTV-5体育
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/5.png" group-title="央视频道",CCTV5体育
 http://222.161.218.244/PLTV/88888888/224/3221226129/10000100000000060000000015558810_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-6电影" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/6.png" group-title="央视频道",CCTV-6电影
+#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/6.png" group-title="央视频道",CCTV6电影
 http://222.161.218.244/PLTV/88888888/224/3221226131/10000100000000060000000015558811_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-7国防军事" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/7.png" group-title="央视频道",CCTV-7国防军事
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/7.png" group-title="央视频道",CCTV7国防军事
 http://222.161.218.244/PLTV/88888888/224/3221226239/10000100000000060000000016498531_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-8电视剧" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/8.png" group-title="央视频道",CCTV-8电视剧
+#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/8.png" group-title="央视频道",CCTV8电视剧
 http://222.161.218.244/PLTV/88888888/224/3221226133/10000100000000060000000015558812_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-9记录" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/9.png" group-title="央视频道",CCTV-9记录
+#EXTINF:-1 tvg-name="CCTV9记录" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/9.png" group-title="央视频道",CCTV9记录
 http://222.161.218.244/PLTV/88888888/224/3221225803/10000100000000060000000014274943_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-10科教" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/10.png" group-title="央视频道",CCTV-10科教
+#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/10.png" group-title="央视频道",CCTV10科教
 http://222.161.218.244/PLTV/88888888/224/3221225805/10000100000000060000000014274956_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-11戏曲" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/11.png" group-title="央视频道",CCTV-11戏曲
+#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/11.png" group-title="央视频道",CCTV11戏曲
 http://222.161.218.244/PLTV/88888888/224/3221225904/10000100000000060000000016631568_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-12社会与法" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/12.png" group-title="央视频道",CCTV-12社会与法
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/12.png" group-title="央视频道",CCTV12社会与法
 http://222.161.218.244/PLTV/88888888/224/3221225807/10000100000000060000000014274957_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-13新闻" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/13.png" group-title="央视频道",CCTV-13新闻
+#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/13.png" group-title="央视频道",CCTV13新闻
 http://222.161.218.244/PLTV/88888888/224/3221226247/10000100000000060000000016631575_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-14少儿" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/14.png" group-title="央视频道",CCTV-14少儿
+#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/14.png" group-title="央视频道",CCTV14少儿
 http://222.161.218.244/PLTV/88888888/224/3221225809/10000100000000060000000014274958_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-15音乐" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/15.png" group-title="央视频道",CCTV-15音乐
+#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/15.png" group-title="央视频道",CCTV15音乐
 http://222.161.218.244/PLTV/88888888/224/3221225854/10000100000000060000000015317262_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-16奥林匹克" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/16.png" group-title="央视频道",CCTV-16奥林匹克
+#EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/16.png" group-title="央视频道",CCTV16奥林匹克
 http://222.161.218.244/PLTV/88888888/224/3221226241/10000100000000060000000016498536_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-17农业农村" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/17.png" group-title="央视频道",CCTV-17农业农村
+#EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/17.png" group-title="央视频道",CCTV17农业农村
 http://222.161.218.244/PLTV/88888888/224/3221225801/10000100000000060000000014274940_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-4K超高清" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/4k.png" group-title="央视频道",CCTV-4K超高清
+#EXTINF:-1 tvg-name="CCTV4K超高清" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/4k.png" group-title="央视频道",CCTV4K超高清
 http://222.161.218.244/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-4中文国际欧洲" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/oz.png" group-title="央视频道",CCTV-4中文国际欧洲
+#EXTINF:-1 tvg-name="CCTV4中文国际欧洲" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/oz.png" group-title="央视频道",CCTV4中文国际欧洲
 http://222.161.218.244/PLTV/88888888/224/3221226231/10000100000000060000000016336628_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-4中文国际美洲" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/mz.png" group-title="央视频道",CCTV-4中文国际美洲
+#EXTINF:-1 tvg-name="CCTV4中文国际美洲" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/mz.png" group-title="央视频道",CCTV4中文国际美洲
 http://222.161.218.244/PLTV/88888888/224/3221225894/10000100000000060000000016336632_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-5+体育赛事" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/5+.png" group-title="央视频道",CCTV-5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/5+.png" group-title="央视频道",CCTV5+体育赛事
 http://222.161.218.244/PLTV/88888888/224/3221225720/10000100000000060000000014868371_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="CCTV-16奥林匹克4K" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/16.png" group-title="央视频道",CCTV-16奥林匹克4K
+#EXTINF:-1 tvg-name="CCTV16奥林匹克4K" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/16.png" group-title="央视频道",CCTV16奥林匹克4K
 http://222.161.218.244/PLTV/88888888/224/3221225902/10000100000000060000000016498622_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cgtn/yy.png" group-title="国际频道",CGTN英语
 http://222.161.218.244/PLTV/88888888/224/3221226233/10000100000000060000000016336637_0.smil/index.m3u8?fmt=ts2hls
@@ -147,7 +147,7 @@ http://222.161.218.244/PLTV/88888888/224/3221225852/1000010000000006000000001524
 http://222.161.218.244/PLTV/88888888/224/3221226015/10000100000000060000000015242250_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="吉视综艺文化" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlzywh.png" group-title="地方频道",吉林综艺文化
 http://222.161.218.244/PLTV/88888888/224/3221226029/10000100000000060000000015242271_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="吉林教育频道" group-title="地方频道",吉林教育
+#EXTINF:-1 tvg-name="吉林教育" group-title="地方频道",吉林教育
 http://222.161.218.244/PLTV/88888888/224/3221225846/10000100000000060000000015213097_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="长春综合" group-title="地方频道",长春综合
 http://222.161.218.244/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil/index.m3u8?fmt=ts2hls
