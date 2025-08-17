@@ -1,6 +1,4 @@
 #EXTM3U tvg-url="https://live.fanmingming.com/e.xml"
-
-#央视频道22
 #EXTINF:-1 tvg-name="CCTV-1综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/1.png" group-title="央视频道",CCTV-1综合
 http://222.161.218.244/PLTV/88888888/224/3221225620/10000100000000060000000014261464_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV-2财经" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/2.png" group-title="央视频道",CCTV-2财经
@@ -45,8 +43,6 @@ http://222.161.218.244/PLTV/88888888/224/3221225894/1000010000000006000000001633
 http://222.161.218.244/PLTV/88888888/224/3221225720/10000100000000060000000014868371_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV-16奥林匹克4K" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/16.png" group-title="央视频道",CCTV-16奥林匹克4K
 http://222.161.218.244/PLTV/88888888/224/3221225902/10000100000000060000000016498622_0.smil/index.m3u8?fmt=ts2hls
-
-#国际频道6
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cgtn/yy.png" group-title="国际频道",CGTN英语
 http://222.161.218.244/PLTV/88888888/224/3221226233/10000100000000060000000016336637_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cgtn/jl.png" group-title="国际频道",CGTN纪录
@@ -59,16 +55,12 @@ http://222.161.218.244/PLTV/88888888/224/3221226237/1000010000000006000000001633
 http://222.161.218.244/PLTV/88888888/224/3221225898/10000100000000060000000016336645_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cgtn/alby.png" group-title="国际频道",CGTN阿拉伯语
 http://222.161.218.244/PLTV/88888888/224/3221225900/10000100000000060000000016336654_0.smil/index.m3u8?fmt=ts2hls
-
-#教育频道3
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cetv/1.png" group-title="教育频道",中国教育1台
 http://222.161.218.244/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cetv/2.png" group-title="教育频道",中国教育2台
 http://222.161.218.244/PLTV/88888888/224/3221225785/10000100000000060000000014254035_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cetv/4.png" group-title="教育频道",中国教育4台
 http://222.161.218.244/PLTV/88888888/224/3221225775/10000100000000060000000014254024_0.smil/index.m3u8?fmt=ts2hls
-
-#卫视频道38
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/京.png" group-title="卫视频道",北京卫视
 http://222.161.218.244/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="北京卫视4K超高清" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/京4k.png" group-title="卫视频道",北京卫视4K超高清
@@ -145,8 +137,6 @@ http://222.161.218.244/PLTV/88888888/224/3221225516/1000010000000006000000000002
 http://222.161.218.244/PLTV/88888888/224/3221225568/10000100000000060000000000029657_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/琼C.png" group-title="卫视频道",三沙卫视
 http://222.161.218.244/PLTV/88888888/224/3221225870/10000100000000060000000015811900_0.smil/index.m3u8?fmt=ts2hls
-
-#地方频道60
 #EXTINF:-1 tvg-name="吉视都市" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlds.png" group-title="地方频道",吉林都市
 http://222.161.218.244/PLTV/88888888/224/3221225795/10000100000000060000000014254371_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="吉视生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlsh.png" group-title="地方频道",吉林生活
@@ -267,8 +257,6 @@ http://222.161.218.244/PLTV/88888888/224/3221226189/1000010000000006000000001558
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 #EXTINF:-1 tvg-name="九屏频道" group-title="地方频道",九屏频道
 http://222.161.218.244/PLTV/88888888/224/3221225791/10000100000000060000000014254090_0.smil/index.m3u8?fmt=ts2hls
-
-#数字频道52
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/digital/hqqg.png" group-title="数字频道",环球奇观
 http://222.161.218.244/PLTV/88888888/224/3221225892/10000100000000060000000016312812_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/digital/zgjt.png" group-title="数字频道",中国交通
@@ -372,4 +360,5 @@ http://222.161.218.244/PLTV/88888888/224/3221226125/1000010000000006000000001544
 #EXTINF:-1 tvg-name="家有购物" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/digital/jygw.png" group-title="数字频道",家有购物
 http://222.161.218.244/PLTV/88888888/224/3221225759/10000100000000060000000014254010_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/digital/jshqjx.png" group-title="数字频道",聚鲨环球精选
+
 http://222.161.218.244/PLTV/88888888/224/3221225763/10000100000000060000000014254013_0.smil/index.m3u8?fmt=ts2hls
