@@ -149,9 +149,9 @@ http://139.215.98.88/PLTV/88888888/224/3221226015/100001000000000600000000152422
 http://139.215.98.88/PLTV/88888888/224/3221226029/10000100000000060000000015242271_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="吉林教育" group-title="地方频道",吉林教育
 http://139.215.98.88/PLTV/88888888/224/3221225846/10000100000000060000000015213097_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="长春综合" group-title="地方频道",长春综合
+#EXTINF:-1 tvg-name="长春综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/cczh.png" group-title="地方频道",长春综合
 http://139.215.98.88/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="长春文旅体育" group-title="地方频道",长春文旅体育
+#EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/ccwlty.png" group-title="地方频道",长春文旅体育
 http://139.215.98.88/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="长春市民生活" group-title="地方频道",长春市民生活
 http://139.215.98.88/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil/index.m3u8?fmt=ts2hls
