@@ -155,7 +155,7 @@ http://222.161.218.244/PLTV/88888888/224/3221225630/1000010000000006000000001429
 http://222.161.218.244/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="长春市民生活" group-title="地方频道",长春市民生活
 http://222.161.218.244/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="九台" group-title="地方频道",九台
+#EXTINF:-1 tvg-name="九台区" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jtq.png" tvg-name="九台区" group-title="地方频道",九台区
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 #EXTINF:-1 tvg-name="双阳综合" group-title="地方频道",双阳综合
 http://222.161.218.244/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil/index.m3u8?fmt=ts2hls
