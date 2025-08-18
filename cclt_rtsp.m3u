@@ -291,7 +291,7 @@ rtsp://222.161.218.244:554/PLTV/88888888/224/3221225743/100001000000000600000000
 rtsp://222.161.218.244:554/PLTV/88888888/224/3221225864/10000100000000060000000015648524_0.smil
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/digital/ymdy.png" group-title="数字频道",CHC影迷电影
 rtsp://222.161.218.244:554/PLTV/88888888/224/3221225866/10000100000000060000000015648523_0.smil
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/digital/ymdy.png" group-title="数字频道",CHC动作电影
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/digital/dzdy.png" group-title="数字频道",CHC动作电影
 rtsp://222.161.218.244:554/PLTV/88888888/224/3221226201/10000100000000060000000015648520_0.smil
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/digital/lgs.png" group-title="数字频道",老故事
 rtsp://222.161.218.244:554/PLTV/88888888/224/3221225827/10000100000000060000000014313391_0.smil
