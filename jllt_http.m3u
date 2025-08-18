@@ -42,7 +42,7 @@ http://139.215.98.88/PLTV/88888888/224/3221225894/100001000000000600000000163366
 #EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/5+.png" group-title="央视频道",CCTV5+体育赛事
 http://139.215.98.88/PLTV/88888888/224/3221225720/10000100000000060000000014868371_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV16奥林匹克4K超高清" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cctv/16.png" group-title="央视频道",CCTV16奥林匹克4K超高清
-http://139.215.98.88/PLTV/88888888/224/3221225902/10000100000000060000000016498622_0.smil/index.m3u8?fmt=ts2hls
+#http://139.215.98.88/PLTV/88888888/224/3221225902/10000100000000060000000016498622_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN英语" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cgtn/yy.png" group-title="国际频道",CGTN英语
 http://139.215.98.88/PLTV/88888888/224/3221226233/10000100000000060000000016336637_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/cgtn/jl.png" group-title="国际频道",CGTN纪录
