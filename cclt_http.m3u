@@ -157,7 +157,7 @@ http://222.161.218.244/PLTV/88888888/224/3221225632/1000010000000006000000001429
 http://222.161.218.244/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="九台" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jtq.png" tvg-name="九台" group-title="地方频道",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-#EXTINF:-1 tvg-name="双阳" group-title="地方频道",双阳
+#EXTINF:-1 tvg-name="双阳" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/syzhpd.png" group-title="地方频道",双阳
 http://222.161.218.244/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="农安" group-title="地方频道",农安
 http://222.161.218.244/PLTV/88888888/224/3221226049/10000100000000060000000015417315_0.smil/index.m3u8?fmt=ts2hls
