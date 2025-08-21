@@ -173,15 +173,15 @@ http://222.161.218.244/PLTV/88888888/224/3221226123/1000010000000006000000001541
 http://222.161.218.244/PLTV/88888888/224/3221226193/10000100000000060000000015585157_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="蛟河综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jhzhpd.png" group-title="地方频道",蛟河综合频道
 http://222.161.218.244/PLTV/88888888/224/3221226225/10000100000000060000000016079780_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="桦甸" group-title="地方频道",桦甸
+#EXTINF:-1 tvg-name="桦甸综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/hdzhpd.png" group-title="地方频道",桦甸综合频道
 http://222.161.218.244/PLTV/88888888/224/3221225537/10000100000000060000000000030285_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/ybws.png" group-title="地方频道",延边卫视
 http://222.161.218.244/PLTV/88888888/224/3221225698/10000100000000060000000014819811_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="延边朝鲜语" group-title="地方频道",延边朝鲜语
+#EXTINF:-1 tvg-name="朝语综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/cyzh.png" group-title="地方频道",朝语综合
 http://222.161.218.244/PLTV/88888888/224/3221226045/10000100000000060000000015259698_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="延边汉语" group-title="地方频道",延边汉语
+#EXTINF:-1 tvg-name="汉语综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/hyzh.png" group-title="地方频道",汉语综合
 http://222.161.218.244/PLTV/88888888/224/3221226047/10000100000000060000000015259697_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="延吉" group-title="地方频道",延吉
+#EXTINF:-1 tvg-name="延吉综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/yjzhpd.png" group-title="地方频道",延吉综合频道
 http://222.161.218.244/PLTV/88888888/224/3221226117/10000100000000060000000015446242_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="敦化" group-title="地方频道",敦化
 http://222.161.218.244/PLTV/88888888/224/3221225773/10000100000000060000000014254021_0.smil/index.m3u8?fmt=ts2hls
