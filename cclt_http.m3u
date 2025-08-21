@@ -67,6 +67,8 @@ http://222.161.218.244/PLTV/88888888/224/3221225811/1000010000000006000000001427
 #http://222.161.218.244/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/京jskj.png" group-title="卫视频道",北京纪实科教
 http://222.161.218.244/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/kkse.png" group-title="卫视频道",卡酷少儿
+http://222.161.218.244/PLTV/88888888/224/3221225552/10000100000000060000000000029615_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/津.png" group-title="卫视频道",天津卫视
 http://222.161.218.244/PLTV/88888888/224/3221225624/10000100000000060000000014261467_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/沪.png" group-title="卫视频道",东方卫视
@@ -213,7 +215,7 @@ http://222.161.218.244/PLTV/88888888/224/3221226077/1000010000000006000000001541
 http://222.161.218.244/PLTV/88888888/224/3221226107/10000100000000060000000015446251_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="梅河口" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/mhk.png" group-title="地方频道",梅河口
 http://222.161.218.244/PLTV/88888888/224/3221226105/10000100000000060000000015446252_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="辉南综合" group-title="地方频道",辉南综合
+#EXTINF:-1 tvg-name="辉南综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/hnzh.png" group-title="地方频道",辉南综合
 http://222.161.218.244/PLTV/88888888/224/3221226103/10000100000000060000000015446254_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="白城新闻·综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/bcxwzh.png" group-title="地方频道",白城新闻·综合
 http://222.161.218.244/PLTV/88888888/224/3221225826/10000100000000060000000015046811_0.smil/index.m3u8?fmt=ts2hls
