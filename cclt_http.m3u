@@ -201,7 +201,7 @@ http://222.161.218.244/PLTV/88888888/224/3221226115/1000010000000006000000001544
 http://222.161.218.244/PLTV/88888888/224/3221226113/10000100000000060000000015446246_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="公主岭综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/gzlzh.png" group-title="地方频道",公主岭综合
 http://222.161.218.244/PLTV/88888888/224/3221226111/10000100000000060000000015446248_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="伊通" group-title="地方频道",伊通
+#EXTINF:-1 tvg-name="伊通" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/yt.png" group-title="地方频道",伊通
 http://222.161.218.244/PLTV/88888888/224/3221226109/10000100000000060000000015446249_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="通化1" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/th1.png" group-title="地方频道",通化1
 http://222.161.218.244/PLTV/88888888/224/3221225842/10000100000000060000000015063095_0.smil/index.m3u8?fmt=ts2hls
@@ -209,7 +209,7 @@ http://222.161.218.244/PLTV/88888888/224/3221225842/1000010000000006000000001506
 http://222.161.218.244/PLTV/88888888/224/3221225840/10000100000000060000000015063096_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="通化3" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/th3.png" group-title="地方频道",通化3
 http://222.161.218.244/PLTV/88888888/224/3221225838/10000100000000060000000015063097_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="集安综合" group-title="地方频道",集安综合
+#EXTINF:-1 tvg-name="集安综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jazh.png" group-title="地方频道",集安综合
 http://222.161.218.244/PLTV/88888888/224/3221226077/10000100000000060000000015417317_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="柳河综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/lhzh.png" group-title="地方频道",柳河综合
 http://222.161.218.244/PLTV/88888888/224/3221226107/10000100000000060000000015446251_0.smil/index.m3u8?fmt=ts2hls
@@ -229,9 +229,9 @@ http://222.161.218.244/PLTV/88888888/224/3221226099/1000010000000006000000001544
 http://222.161.218.244/PLTV/88888888/224/3221226101/10000100000000060000000015446255_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="洮南" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/tn.png" group-title="地方频道",洮南
 http://222.161.218.244/PLTV/88888888/224/3221226191/10000100000000060000000015585158_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="辽源新闻综合" group-title="地方频道",辽源新闻综合
+#EXTINF:-1 tvg-name="辽源新闻综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/lyxwzh.png" group-title="地方频道",辽源新闻综合
 http://222.161.218.244/PLTV/88888888/224/3221225822/10000100000000060000000015046813_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="辽源民生社会" group-title="地方频道",辽源民生社会
+#EXTINF:-1 tvg-name="辽源民生社会" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/lymssh.png" group-title="地方频道",辽源民生社会
 http://222.161.218.244/PLTV/88888888/224/3221225820/10000100000000060000000015046814_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="东辽综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/dlzhpd.png" group-title="地方频道",东辽综合频道
 http://222.161.218.244/PLTV/88888888/224/3221226095/10000100000000060000000015446259_0.smil/index.m3u8?fmt=ts2hls
