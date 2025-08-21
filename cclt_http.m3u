@@ -157,7 +157,7 @@ http://222.161.218.244/PLTV/88888888/224/3221225632/1000010000000006000000001429
 http://222.161.218.244/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="九台" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jtq.png" tvg-name="九台" group-title="地方频道",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-#EXTINF:-1 tvg-name="双阳" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/syzhpd.png" group-title="地方频道",双阳
+#EXTINF:-1 tvg-name="双阳综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/syzhpd.png" group-title="地方频道",双阳综合频道
 http://222.161.218.244/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="农安" group-title="地方频道",农安
 http://222.161.218.244/PLTV/88888888/224/3221226049/10000100000000060000000015417315_0.smil/index.m3u8?fmt=ts2hls
@@ -169,9 +169,9 @@ http://222.161.218.244/PLTV/88888888/224/3221225830/1000010000000006000000001504
 http://222.161.218.244/PLTV/88888888/224/3221225828/10000100000000060000000015046810_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="磐石综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/pszh.png" group-title="地方频道",磐石综合
 http://222.161.218.244/PLTV/88888888/224/3221226123/10000100000000060000000015417314_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="舒兰" group-title="地方频道",舒兰
+#EXTINF:-1 tvg-name="舒兰综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/slzhpd.png" group-title="地方频道",舒兰综合频道
 http://222.161.218.244/PLTV/88888888/224/3221226193/10000100000000060000000015585157_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="蛟河" group-title="地方频道",蛟河
+#EXTINF:-1 tvg-name="蛟河综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jhzhpd.png" group-title="地方频道",蛟河综合频道
 http://222.161.218.244/PLTV/88888888/224/3221226225/10000100000000060000000016079780_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="桦甸" group-title="地方频道",桦甸
 http://222.161.218.244/PLTV/88888888/224/3221225537/10000100000000060000000000030285_0.smil/index.m3u8?fmt=ts2hls
