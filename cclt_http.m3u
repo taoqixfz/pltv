@@ -147,13 +147,13 @@ http://222.161.218.244/PLTV/88888888/224/3221225852/1000010000000006000000001524
 http://222.161.218.244/PLTV/88888888/224/3221226015/10000100000000060000000015242250_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="吉视综艺文化" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlzywh.png" group-title="地方频道",吉林综艺文化
 http://222.161.218.244/PLTV/88888888/224/3221226029/10000100000000060000000015242271_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="吉林教育" group-title="地方频道",吉林教育
+#EXTINF:-1 tvg-name="吉林教育" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jljy.png" group-title="地方频道",吉林教育
 http://222.161.218.244/PLTV/88888888/224/3221225846/10000100000000060000000015213097_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/cczh.png" group-title="地方频道",长春综合
 http://222.161.218.244/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/ccwlty.png" group-title="地方频道",长春文旅体育
 http://222.161.218.244/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="长春市民生活" group-title="地方频道",长春市民生活
+#EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/ccdssh.png" group-title="地方频道",长春市民生活
 http://222.161.218.244/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="九台区" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jtq.png" tvg-name="九台区" group-title="地方频道",九台区
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
@@ -161,13 +161,13 @@ http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 http://222.161.218.244/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="农安综合" group-title="地方频道",农安综合
 http://222.161.218.244/PLTV/88888888/224/3221226049/10000100000000060000000015417315_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="吉林新闻综合" group-title="地方频道",吉林新闻综合
+#EXTINF:-1 tvg-name="吉林新闻综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlsxwzh.png" group-title="地方频道",吉林新闻综合
 http://222.161.218.244/PLTV/88888888/224/3221225832/10000100000000060000000015046808_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="吉林科教" group-title="地方频道",吉林科教
+#EXTINF:-1 tvg-name="吉林科教" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlskj.png" group-title="地方频道",吉林科教
 http://222.161.218.244/PLTV/88888888/224/3221225830/10000100000000060000000015046809_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="吉林生活" group-title="地方频道",吉林生活
+#EXTINF:-1 tvg-name="吉林生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlsh.png" group-title="地方频道",吉林生活
 http://222.161.218.244/PLTV/88888888/224/3221225828/10000100000000060000000015046810_0.smil/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="磐石" group-title="地方频道",磐石
+#EXTINF:-1 tvg-name="磐石综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/pszh.png" group-title="地方频道",磐石综合
 http://222.161.218.244/PLTV/88888888/224/3221226123/10000100000000060000000015417314_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="舒兰" group-title="地方频道",舒兰
 http://222.161.218.244/PLTV/88888888/224/3221226193/10000100000000060000000015585157_0.smil/index.m3u8?fmt=ts2hls
