@@ -67,6 +67,8 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225811/100001000000000600000000142749
 rtsp://139.215.98.88/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/京jskj.png" group-title="卫视频道",北京纪实科教
 rtsp://139.215.98.88/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/kkse.png" group-title="卫视频道",卡酷少儿
+rtsp://139.215.98.88/PLTV/88888888/224/3221225552/10000100000000060000000000029615_0.smil
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/津.png" group-title="卫视频道",天津卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225624/10000100000000060000000014261467_0.smil
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/沪.png" group-title="卫视频道",东方卫视
@@ -137,123 +139,123 @@ rtsp://139.215.98.88/PLTV/88888888/224/3221225516/100001000000000600000000000295
 rtsp://139.215.98.88/PLTV/88888888/224/3221225568/10000100000000060000000000029657_0.smil
 #EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/satellite/琼C.png" group-title="卫视频道",三沙卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225870/10000100000000060000000015811900_0.smil
-#EXTINF:-1 tvg-name="吉视都市" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlds.png" group-title="地方频道",吉林都市
+#EXTINF:-1 tvg-name="吉林都市" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlds.png" group-title="地方频道",吉林都市
 rtsp://139.215.98.88/PLTV/88888888/224/3221225795/10000100000000060000000014254371_0.smil
-#EXTINF:-1 tvg-name="吉视生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlsh.png" group-title="地方频道",吉林生活
+#EXTINF:-1 tvg-name="吉林生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlsh.png" group-title="地方频道",吉林生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221226013/10000100000000060000000015242249_0.smil
-#EXTINF:-1 tvg-name="吉视影视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlys.png" group-title="地方频道",吉林影视
+#EXTINF:-1 tvg-name="吉林影视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlys.png" group-title="地方频道",吉林影视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225852/10000100000000060000000015242246_0.smil
-#EXTINF:-1 tvg-name="吉视乡村" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlxc.png" group-title="地方频道",吉林乡村
+#EXTINF:-1 tvg-name="吉林乡村" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlxc.png" group-title="地方频道",吉林乡村
 rtsp://139.215.98.88/PLTV/88888888/224/3221226015/10000100000000060000000015242250_0.smil
-#EXTINF:-1 tvg-name="吉视综艺文化" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlzywh.png" group-title="地方频道",吉林综艺文化
+#EXTINF:-1 tvg-name="吉林综艺文化" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlzywh.png" group-title="地方频道",吉林综艺文化
 rtsp://139.215.98.88/PLTV/88888888/224/3221226029/10000100000000060000000015242271_0.smil
-#EXTINF:-1 tvg-name="吉林教育" group-title="地方频道",吉林教育
+#EXTINF:-1 tvg-name="吉林教育" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jljy.png" group-title="地方频道",吉林教育
 rtsp://139.215.98.88/PLTV/88888888/224/3221225846/10000100000000060000000015213097_0.smil
 #EXTINF:-1 tvg-name="长春综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/cczh.png" group-title="地方频道",长春综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/ccwlty.png" group-title="地方频道",长春文旅体育
 rtsp://139.215.98.88/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil
-#EXTINF:-1 tvg-name="长春市民生活" group-title="地方频道",长春市民生活
+#EXTINF:-1 tvg-name="长春市民生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/ccsmsh.png" group-title="地方频道",长春市民生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil
-#EXTINF:-1 tvg-name="九台区" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jtq.png" tvg-name="九台区" group-title="地方频道",九台区
+#EXTINF:-1 tvg-name="九台" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jtq.png" tvg-name="九台" group-title="地方频道",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
-#EXTINF:-1 tvg-name="双阳综合" group-title="地方频道",双阳综合
+#EXTINF:-1 tvg-name="双阳综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/syzhpd.png" group-title="地方频道",双阳综合频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil
-#EXTINF:-1 tvg-name="农安综合" group-title="地方频道",农安综合
+#EXTINF:-1 tvg-name="农安" group-title="地方频道",农安
 rtsp://139.215.98.88/PLTV/88888888/224/3221226049/10000100000000060000000015417315_0.smil
-#EXTINF:-1 tvg-name="吉林新闻综合" group-title="地方频道",吉林新闻综合
+#EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlsxwzh.png" group-title="地方频道",吉林市新闻综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225832/10000100000000060000000015046808_0.smil
-#EXTINF:-1 tvg-name="吉林科教" group-title="地方频道",吉林科教
+#EXTINF:-1 tvg-name="吉林市科教" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlskj.png" group-title="地方频道",吉林市科教
 rtsp://139.215.98.88/PLTV/88888888/224/3221225830/10000100000000060000000015046809_0.smil
-#EXTINF:-1 tvg-name="吉林生活" group-title="地方频道",吉林生活
+#EXTINF:-1 tvg-name="吉林市生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jlssh.png" group-title="地方频道",吉林市生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225828/10000100000000060000000015046810_0.smil
-#EXTINF:-1 tvg-name="磐石" group-title="地方频道",磐石
+#EXTINF:-1 tvg-name="磐石综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/pszh.png" group-title="地方频道",磐石综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226123/10000100000000060000000015417314_0.smil
-#EXTINF:-1 tvg-name="舒兰" group-title="地方频道",舒兰
+#EXTINF:-1 tvg-name="舒兰综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/slzhpd.png" group-title="地方频道",舒兰综合频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221226193/10000100000000060000000015585157_0.smil
-#EXTINF:-1 tvg-name="蛟河" group-title="地方频道",蛟河
+#EXTINF:-1 tvg-name="蛟河综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jhzhpd.png" group-title="地方频道",蛟河综合频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221226225/10000100000000060000000016079780_0.smil
-#EXTINF:-1 tvg-name="桦甸" group-title="地方频道",桦甸
+#EXTINF:-1 tvg-name="桦甸综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/hdzhpd.png" group-title="地方频道",桦甸综合频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225537/10000100000000060000000000030285_0.smil
-#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/yb.png" group-title="地方频道",延边卫视
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/ybws.png" group-title="地方频道",延边卫视
 rtsp://139.215.98.88/PLTV/88888888/224/3221225698/10000100000000060000000014819811_0.smil
-#EXTINF:-1 tvg-name="延边朝鲜语" group-title="地方频道",延边朝鲜语
+#EXTINF:-1 tvg-name="朝语综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/cyzh.png" group-title="地方频道",朝语综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226045/10000100000000060000000015259698_0.smil
-#EXTINF:-1 tvg-name="延边汉语" group-title="地方频道",延边汉语
+#EXTINF:-1 tvg-name="汉语综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/hyzh.png" group-title="地方频道",汉语综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226047/10000100000000060000000015259697_0.smil
-#EXTINF:-1 tvg-name="延吉" group-title="地方频道",延吉
+#EXTINF:-1 tvg-name="延吉综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/yjzhpd.png" group-title="地方频道",延吉综合频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221226117/10000100000000060000000015446242_0.smil
 #EXTINF:-1 tvg-name="敦化" group-title="地方频道",敦化
 rtsp://139.215.98.88/PLTV/88888888/224/3221225773/10000100000000060000000014254021_0.smil
 #EXTINF:-1 tvg-name="图们" group-title="地方频道",图们
 rtsp://139.215.98.88/PLTV/88888888/224/3221226119/10000100000000060000000015446241_0.smil
-#EXTINF:-1 tvg-name="汪清" group-title="地方频道",汪清
+#EXTINF:-1 tvg-name="汪清" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/wq.png" group-title="地方频道",汪清
 rtsp://139.215.98.88/PLTV/88888888/224/3221226121/10000100000000060000000015446239_0.smil
-#EXTINF:-1 tvg-name="四平-1" group-title="地方频道",四平-1
+#EXTINF:-1 tvg-name="四平-1" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/sp1.png" group-title="地方频道",四平-1
 rtsp://139.215.98.88/PLTV/88888888/224/3221225836/10000100000000060000000015047482_0.smil
-#EXTINF:-1 tvg-name="四平-2" group-title="地方频道",四平-2
+#EXTINF:-1 tvg-name="四平-2" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/sp2.png" group-title="地方频道",四平-2
 rtsp://139.215.98.88/PLTV/88888888/224/3221225834/10000100000000060000000015047483_0.smil
-#EXTINF:-1 tvg-name="梨树" group-title="地方频道",梨树
+#EXTINF:-1 tvg-name="梨树新闻" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/lsxw.png" group-title="地方频道",梨树新闻
 rtsp://139.215.98.88/PLTV/88888888/224/3221226115/10000100000000060000000015446243_0.smil
-#EXTINF:-1 tvg-name="双辽" group-title="地方频道",双辽
+#EXTINF:-1 tvg-name="双辽融媒" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/slrm.png" group-title="地方频道",双辽融媒
 rtsp://139.215.98.88/PLTV/88888888/224/3221226113/10000100000000060000000015446246_0.smil
-#EXTINF:-1 tvg-name="公主岭" group-title="地方频道",公主岭
+#EXTINF:-1 tvg-name="公主岭综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/gzlzh.png" group-title="地方频道",公主岭综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226111/10000100000000060000000015446248_0.smil
-#EXTINF:-1 tvg-name="伊通" group-title="地方频道",伊通
+#EXTINF:-1 tvg-name="伊通" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/yt.png" group-title="地方频道",伊通
 rtsp://139.215.98.88/PLTV/88888888/224/3221226109/10000100000000060000000015446249_0.smil
-#EXTINF:-1 tvg-name="通化1" group-title="地方频道",通化1
+#EXTINF:-1 tvg-name="通化1" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/th1.png" group-title="地方频道",通化1
 rtsp://139.215.98.88/PLTV/88888888/224/3221225842/10000100000000060000000015063095_0.smil
-#EXTINF:-1 tvg-name="通化2" group-title="地方频道",通化2
+#EXTINF:-1 tvg-name="通化2" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/th2.png" group-title="地方频道",通化2
 rtsp://139.215.98.88/PLTV/88888888/224/3221225840/10000100000000060000000015063096_0.smil
-#EXTINF:-1 tvg-name="通化3" group-title="地方频道",通化3
+#EXTINF:-1 tvg-name="通化3" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/th3.png" group-title="地方频道",通化3
 rtsp://139.215.98.88/PLTV/88888888/224/3221225838/10000100000000060000000015063097_0.smil
-#EXTINF:-1 tvg-name="集安" group-title="地方频道",集安
+#EXTINF:-1 tvg-name="集安综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/jazh.png" group-title="地方频道",集安综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226077/10000100000000060000000015417317_0.smil
-#EXTINF:-1 tvg-name="柳河" group-title="地方频道",柳河
+#EXTINF:-1 tvg-name="柳河综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/lhzh.png" group-title="地方频道",柳河综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226107/10000100000000060000000015446251_0.smil
-#EXTINF:-1 tvg-name="梅河口" group-title="地方频道",梅河口
+#EXTINF:-1 tvg-name="梅河口" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/mhk.png" group-title="地方频道",梅河口
 rtsp://139.215.98.88/PLTV/88888888/224/3221226105/10000100000000060000000015446252_0.smil
-#EXTINF:-1 tvg-name="辉南" group-title="地方频道",辉南
+#EXTINF:-1 tvg-name="辉南综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/hnzh.png" group-title="地方频道",辉南综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226103/10000100000000060000000015446254_0.smil
-#EXTINF:-1 tvg-name="白城1" group-title="地方频道",白城1
+#EXTINF:-1 tvg-name="白城新闻·综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/bcxwzh.png" group-title="地方频道",白城新闻·综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225826/10000100000000060000000015046811_0.smil
-#EXTINF:-1 tvg-name="白城2" group-title="地方频道",白城2
+#EXTINF:-1 tvg-name="白城生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/bcsh.png" group-title="地方频道",白城生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225824/10000100000000060000000015046812_0.smil
-#EXTINF:-1 tvg-name="大安" group-title="地方频道",大安
+#EXTINF:-1 tvg-name="大安综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/dazhpd.png" group-title="地方频道",大安综合频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221226097/10000100000000060000000015446257_0.smil
 #EXTINF:-1 tvg-name="通榆" group-title="地方频道",通榆
 rtsp://139.215.98.88/PLTV/88888888/224/3221226099/10000100000000060000000015446256_0.smil
-#EXTINF:-1 tvg-name="镇赉" group-title="地方频道",镇赉
+#EXTINF:-1 tvg-name="镇赉综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/zlzh.png" group-title="地方频道",镇赉综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226101/10000100000000060000000015446255_0.smil
-#EXTINF:-1 tvg-name="洮南" group-title="地方频道",洮南
+#EXTINF:-1 tvg-name="洮南" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/tn.png" group-title="地方频道",洮南
 rtsp://139.215.98.88/PLTV/88888888/224/3221226191/10000100000000060000000015585158_0.smil
-#EXTINF:-1 tvg-name="辽源1" group-title="地方频道",辽源1
+#EXTINF:-1 tvg-name="辽源新闻综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/lyxwzh.png" group-title="地方频道",辽源新闻综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225822/10000100000000060000000015046813_0.smil
-#EXTINF:-1 tvg-name="辽源2" group-title="地方频道",辽源2
+#EXTINF:-1 tvg-name="辽源民生社会" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/lymssh.png" group-title="地方频道",辽源民生社会
 rtsp://139.215.98.88/PLTV/88888888/224/3221225820/10000100000000060000000015046814_0.smil
-#EXTINF:-1 tvg-name="东辽" group-title="地方频道",东辽
+#EXTINF:-1 tvg-name="东辽综合频道" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/dlzhpd.png" group-title="地方频道",东辽综合频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221226095/10000100000000060000000015446259_0.smil
-#EXTINF:-1 tvg-name="东丰" group-title="地方频道",东丰
+#EXTINF:-1 tvg-name="东丰综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/dfzh.png" group-title="地方频道",东丰综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226093/10000100000000060000000015446260_0.smil
-#EXTINF:-1 tvg-name="松原1" group-title="地方频道",松原1
+#EXTINF:-1 tvg-name="松原" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/sy.png" group-title="地方频道",松原
 rtsp://139.215.98.88/PLTV/88888888/224/3221226009/10000100000000060000000015046837_0.smil
-#EXTINF:-1 tvg-name="松原2" group-title="地方频道",松原2
+#EXTINF:-1 tvg-name="松原生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/sysh.png" group-title="地方频道",松原生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221226087/10000100000000060000000015446264_0.smil
-#EXTINF:-1 tvg-name="扶余" group-title="地方频道",扶余
+#EXTINF:-1 tvg-name="扶余" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/fy.png" group-title="地方频道",扶余
 rtsp://139.215.98.88/PLTV/88888888/224/3221226091/10000100000000060000000015446262_0.smil
-#EXTINF:-1 tvg-name="乾安" group-title="地方频道",乾安
+#EXTINF:-1 tvg-name="乾安综合" group-title="地方频道",乾安综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226089/10000100000000060000000015446263_0.smil
 #EXTINF:-1 tvg-name="前郭" group-title="地方频道",前郭
 rtsp://139.215.98.88/PLTV/88888888/224/3221226079/10000100000000060000000015417318_0.smil
-#EXTINF:-1 tvg-name="白山1" group-title="地方频道",白山1
+#EXTINF:-1 tvg-name="白山1新闻综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/bsxwzh.png" group-title="地方频道",白山1新闻综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221225818/10000100000000060000000015046817_0.smil
-#EXTINF:-1 tvg-name="白山2" group-title="地方频道",白山2
+#EXTINF:-1 tvg-name="白山2旅游生活" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/bslysh.png" group-title="地方频道",白山2旅游生活
 rtsp://139.215.98.88/PLTV/88888888/224/3221225816/10000100000000060000000015046818_0.smil
-#EXTINF:-1 tvg-name="抚松" group-title="地方频道",抚松
+#EXTINF:-1 tvg-name="抚松综合" group-title="地方频道",抚松综合
 rtsp://139.215.98.88/PLTV/88888888/224/3221226187/10000100000000060000000015585160_0.smil
-#EXTINF:-1 tvg-name="临江" group-title="地方频道",临江
+#EXTINF:-1 tvg-name="临江" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/lj.png" group-title="地方频道",临江
 rtsp://139.215.98.88/PLTV/88888888/224/3221226189/10000100000000060000000015585159_0.smil
-#EXTINF:-1 tvg-name="德惠" group-title="地方频道",德惠
+#EXTINF:-1 tvg-name="德惠综合" tvg-logo="https://raw.githubusercontent.com/taoqixfz/iptv/main/local/dhzh.png" group-title="地方频道",德惠综合
 http://stream11.jlntv.cn/dehuitv/sd/live.m3u8
 #EXTINF:-1 tvg-name="九屏频道" group-title="地方频道",九屏频道
 rtsp://139.215.98.88/PLTV/88888888/224/3221225791/10000100000000060000000014254090_0.smil
