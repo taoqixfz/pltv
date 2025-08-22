@@ -1,55 +1,55 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/1.png" group-title="央视频道",CCTV1综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/1.png" group-title="央视频道",CCTV1
 rtsp://222.161.218.244/PLTV/88888888/224/3221225620/10000100000000060000000014261464_0.smil
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/2.png" group-title="央视频道",CCTV2财经
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/2.png" group-title="央视频道",CCTV2
 rtsp://222.161.218.244/PLTV/88888888/224/3221225799/10000100000000060000000014274939_0.smil
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/3.png" group-title="央视频道",CCTV3综艺
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/3.png" group-title="央视频道",CCTV3
 rtsp://222.161.218.244/PLTV/88888888/224/3221226127/10000100000000060000000015558809_0.smil
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/4.png" group-title="央视频道",CCTV4中文国际
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/4.png" group-title="央视频道",CCTV4
 rtsp://222.161.218.244/PLTV/88888888/224/3221226245/10000100000000060000000016631556_0.smil
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/5.png" group-title="央视频道",CCTV5体育
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/5.png" group-title="央视频道",CCTV5
 rtsp://222.161.218.244/PLTV/88888888/224/3221226129/10000100000000060000000015558810_0.smil
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/5+.png" group-title="央视频道",CCTV5+体育赛事
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/5+.png" group-title="央视频道",CCTV5+
 rtsp://222.161.218.244/PLTV/88888888/224/3221225720/10000100000000060000000014868371_0.smil
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/6.png" group-title="央视频道",CCTV6电影
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/6.png" group-title="央视频道",CCTV6
 rtsp://222.161.218.244/PLTV/88888888/224/3221226131/10000100000000060000000015558811_0.smil
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/7.png" group-title="央视频道",CCTV7国防军事
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/7.png" group-title="央视频道",CCTV7
 rtsp://222.161.218.244/PLTV/88888888/224/3221226239/10000100000000060000000016498531_0.smil
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/8.png" group-title="央视频道",CCTV8电视剧
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/8.png" group-title="央视频道",CCTV8
 rtsp://222.161.218.244/PLTV/88888888/224/3221226133/10000100000000060000000015558812_0.smil
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/9.png" group-title="央视频道",CCTV9记录
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/9.png" group-title="央视频道",CCTV9
 rtsp://222.161.218.244/PLTV/88888888/224/3221225803/10000100000000060000000014274943_0.smil
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/10.png" group-title="央视频道",CCTV10科教
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/10.png" group-title="央视频道",CCTV10
 rtsp://222.161.218.244/PLTV/88888888/224/3221225805/10000100000000060000000014274956_0.smil
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/11.png" group-title="央视频道",CCTV11戏曲
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/11.png" group-title="央视频道",CCTV11
 rtsp://222.161.218.244/PLTV/88888888/224/3221225904/10000100000000060000000016631568_0.smil
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/12.png" group-title="央视频道",CCTV12社会与法
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/12.png" group-title="央视频道",CCTV12
 rtsp://222.161.218.244/PLTV/88888888/224/3221225807/10000100000000060000000014274957_0.smil
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/13.png" group-title="央视频道",CCTV13新闻
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/13.png" group-title="央视频道",CCTV13
 rtsp://222.161.218.244/PLTV/88888888/224/3221226247/10000100000000060000000016631575_0.smil
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/14.png" group-title="央视频道",CCTV14少儿
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/14.png" group-title="央视频道",CCTV14
 rtsp://222.161.218.244/PLTV/88888888/224/3221225809/10000100000000060000000014274958_0.smil
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/15.png" group-title="央视频道",CCTV15音乐
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/15.png" group-title="央视频道",CCTV15
 rtsp://222.161.218.244/PLTV/88888888/224/3221225854/10000100000000060000000015317262_0.smil
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/16.png" group-title="央视频道",CCTV16奥林匹克
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/16.png" group-title="央视频道",CCTV16
 rtsp://222.161.218.244/PLTV/88888888/224/3221226241/10000100000000060000000016498536_0.smil
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/17.png" group-title="央视频道",CCTV17农业农村
-rtsp://222.161.218.244/PLTV/88888888/224/3221225801/10000100000000060000000014274940_0.smil
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/超高清.png" group-title="央视频道",CCTV4K超高清
-rtsp://222.161.218.244/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
-#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/美洲.png" group-title="央视频道",CCTV4中文国际美洲
-rtsp://222.161.218.244/PLTV/88888888/224/3221225894/10000100000000060000000016336632_0.smil
-#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/欧洲.png" group-title="央视频道",CCTV4中文国际欧洲
-rtsp://222.161.218.244/PLTV/88888888/224/3221226231/10000100000000060000000016336628_0.smil
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/16.png" group-title="央视频道",CCTV16奥林匹克4K超高清
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/16超高清.png" group-title="央视频道",CCTV16
 rtsp://222.161.218.244/PLTV/88888888/224/3221225902/10000100000000060000000016498622_0.smil
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cetv/1.png" group-title="教育频道",中国教育1台
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/17.png" group-title="央视频道",CCTV17
+rtsp://222.161.218.244/PLTV/88888888/224/3221225801/10000100000000060000000014274940_0.smil
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/超高清.png" group-title="央视频道",CCTV4K
+rtsp://222.161.218.244/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil
+#EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/美洲.png" group-title="央视频道",CCTV4美洲
+rtsp://222.161.218.244/PLTV/88888888/224/3221225894/10000100000000060000000016336632_0.smil
+#EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/欧洲.png" group-title="央视频道",CCTV4欧洲
+rtsp://222.161.218.244/PLTV/88888888/224/3221226231/10000100000000060000000016336628_0.smil
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cetv/1.png" group-title="教育频道",CETV1
 rtsp://222.161.218.244/PLTV/88888888/224/3221225995/10000100000000060000000015014636_0.smil
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cetv/2.png" group-title="教育频道",中国教育2台
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cetv/2.png" group-title="教育频道",CETV2
 rtsp://222.161.218.244/PLTV/88888888/224/3221225785/10000100000000060000000014254035_0.smil
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cetv/4.png" group-title="教育频道",中国教育4台
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cetv/4.png" group-title="教育频道",CETV3
 rtsp://222.161.218.244/PLTV/88888888/224/3221225775/10000100000000060000000014254024_0.smil
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cgtn/英语.png" group-title="国际频道",CGTN英语
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cgtn/英语.png" group-title="国际频道",CGTN
 rtsp://222.161.218.244/PLTV/88888888/224/3221226233/10000100000000060000000016336637_0.smil
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cgtn/纪录.png" group-title="国际频道",CGTN纪录
 rtsp://222.161.218.244/PLTV/88888888/224/3221225896/10000100000000060000000016336641_0.smil
@@ -57,13 +57,13 @@ rtsp://222.161.218.244/PLTV/88888888/224/3221225896/1000010000000006000000001633
 rtsp://222.161.218.244/PLTV/88888888/224/3221226235/10000100000000060000000016336646_0.smil
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cgtn/俄语.png" group-title="国际频道",CGTN俄语
 rtsp://222.161.218.244/PLTV/88888888/224/3221226237/10000100000000060000000016336658_0.smil
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cgtn/西班牙语.png" group-title="国际频道",CGTN西班牙语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cgtn/西语.png" group-title="国际频道",CGTN西语
 rtsp://222.161.218.244/PLTV/88888888/224/3221225898/10000100000000060000000016336645_0.smil
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cgtn/阿拉伯语.png" group-title="国际频道",CGTN阿拉伯语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/cgtn/阿语.png" group-title="国际频道",CGTN阿语
 rtsp://222.161.218.244/PLTV/88888888/224/3221225900/10000100000000060000000016336654_0.smil
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/北京卫视.png" group-title="卫视频道",北京卫视
 rtsp://222.161.218.244/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/北京卫视4K超高清.png" group-title="卫视频道",北京卫视4K超高清
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/北京卫视4K超高清.png" group-title="卫视频道",北京卫视
 rtsp://222.161.218.244/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/北京纪实科教.png" group-title="卫视频道",北京纪实科教
 rtsp://222.161.218.244/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil
@@ -121,11 +121,11 @@ rtsp://222.161.218.244/PLTV/88888888/224/3221225788/1000010000000006000000001499
 rtsp://222.161.218.244/PLTV/88888888/224/3221226061/10000100000000060000000015417305_0.smil
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/广东卫视.png" group-title="卫视频道",广东卫视
 rtsp://222.161.218.244/PLTV/88888888/224/3221225815/10000100000000060000000014274978_0.smil
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/广东卫视4K超高清.png" group-title="卫视频道",广东卫视4K超高清
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/广东卫视4K超高清.png" group-title="卫视频道",广东卫视
 rtsp://222.161.218.244/PLTV/88888888/224/3221225856/10000100000000060000000015317264_0.smil
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/深圳卫视.png" group-title="卫视频道",深圳卫视
 rtsp://222.161.218.244/PLTV/88888888/224/3221225819/10000100000000060000000014274983_0.smil
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/深圳卫视4K超高清.png" group-title="卫视频道",深圳卫视4K超高清
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/深圳卫视4K超高清.png" group-title="卫视频道",深圳卫视
 rtsp://222.161.218.244/PLTV/88888888/224/3221225512/10000100000000060000000000029578_0.smil
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/青海卫视.png" group-title="卫视频道",青海卫视
 rtsp://222.161.218.244/PLTV/88888888/224/3221225562/10000100000000060000000000029646_0.smil
@@ -155,7 +155,7 @@ rtsp://222.161.218.244/PLTV/88888888/224/3221225846/1000010000000006000000001521
 rtsp://222.161.218.244/PLTV/88888888/224/3221225630/10000100000000060000000014292013_0.smil
 #EXTINF:-1 tvg-name="长春文旅体育" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/长春文旅体育.png" group-title="地方频道",长春文旅体育
 rtsp://222.161.218.244/PLTV/88888888/224/3221225632/10000100000000060000000014292014_0.smil
-#EXTINF:-1 tvg-name="长春市民" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/长春市民生活.png" group-title="地方频道",长春市民生活
+#EXTINF:-1 tvg-name="长春市民" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/长春市民生活.png" group-title="地方频道",长春市民
 rtsp://222.161.218.244/PLTV/88888888/224/3221225634/10000100000000060000000014292015_0.smil
 #EXTINF:-1 tvg-name="九台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/九台.png" tvg-name="九台" group-title="地方频道",九台
 http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
@@ -163,7 +163,7 @@ http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 rtsp://222.161.218.244/PLTV/88888888/224/3221225884/10000100000000060000000015948511_0.smil
 #EXTINF:-1 tvg-name="农安" group-title="地方频道",农安
 rtsp://222.161.218.244/PLTV/88888888/224/3221226049/10000100000000060000000015417315_0.smil
-#EXTINF:-1 tvg-name="吉林市新闻综合" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/吉林市新闻综合.png" group-title="地方频道",吉林市新闻综合
+#EXTINF:-1 tvg-name="吉林市新闻" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/吉林市新闻综合.png" group-title="地方频道",吉林市新闻
 rtsp://222.161.218.244/PLTV/88888888/224/3221225832/10000100000000060000000015046808_0.smil
 #EXTINF:-1 tvg-name="吉林市科教" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/吉林市科教.png" group-title="地方频道",吉林市科教
 rtsp://222.161.218.244/PLTV/88888888/224/3221225830/10000100000000060000000015046809_0.smil
@@ -181,7 +181,7 @@ rtsp://222.161.218.244/PLTV/88888888/224/3221225537/1000010000000006000000000003
 rtsp://222.161.218.244/PLTV/88888888/224/3221225698/10000100000000060000000014819811_0.smil
 #EXTINF:-1 tvg-name="朝语综合" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/延边朝语综合.png" group-title="地方频道",延边朝语综合
 rtsp://222.161.218.244/PLTV/88888888/224/3221226045/10000100000000060000000015259698_0.smil
-#EXTINF:-1 tvg-name="汉语综合" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/延边汉语综合.png" group-title="地方频道",延边汉语综合
+#EXTINF:-1 tvg-name="延边2台" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/延边汉语综合.png" group-title="地方频道",延边2台
 rtsp://222.161.218.244/PLTV/88888888/224/3221226047/10000100000000060000000015259697_0.smil
 #EXTINF:-1 tvg-name="延吉综合频道" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/延吉综合频道.png" group-title="地方频道",延吉综合频道
 rtsp://222.161.218.244/PLTV/88888888/224/3221226117/10000100000000060000000015446242_0.smil
@@ -301,7 +301,7 @@ rtsp://222.161.218.244/PLTV/88888888/224/3221225827/1000010000000006000000001431
 rtsp://222.161.218.244/PLTV/88888888/224/3221225542/10000100000000060000000000029593_0.smil
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/发现之旅.png" group-title="数字频道",发现之旅
 rtsp://222.161.218.244/PLTV/88888888/224/3221225566/10000100000000060000000000029649_0.smil
-#EXTINF:-1 tvg-name="书画" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/书画频道.png" group-title="数字频道",书画频道
+#EXTINF:-1 tvg-name="书画" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/书画频道.png" group-title="数字频道",书画
 rtsp://222.161.218.244/PLTV/88888888/224/3221225872/10000100000000060000000015869926_0.smil
 #EXTINF:-1 tvg-name="优优宝贝" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/优优宝贝.png" group-title="数字频道",优优宝贝
 rtsp://222.161.218.244/PLTV/88888888/224/3221226203/10000100000000060000000015673313_0.smil
@@ -319,19 +319,19 @@ rtsp://222.161.218.244/PLTV/88888888/224/3221226219/1000010000000006000000001594
 rtsp://222.161.218.244/PLTV/88888888/224/3221225878/10000100000000060000000015948520_0.smil
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/金色学堂.png" group-title="数字频道",金色学堂
 rtsp://222.161.218.244/PLTV/88888888/224/3221226221/10000100000000060000000015948519_0.smil
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/梨园频道.png" group-title="数字频道",梨园频道
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/梨园频道.png" group-title="数字频道",梨园
 rtsp://222.161.218.244/PLTV/88888888/224/3221225498/10000100000000060000000000029510_0.smil
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/武术世界.png" group-title="数字频道",武术世界
 rtsp://222.161.218.244/PLTV/88888888/224/3221225534/10000100000000060000000000029589_0.smil
 #EXTINF:-1 tvg-name="文物宝库" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/文物宝库.png" group-title="数字频道",文物宝库
 rtsp://222.161.218.244/PLTV/88888888/224/3221225554/10000100000000060000000000029616_0.smil
-#EXTINF:-1 tvg-name="国学" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/国学频道.png" group-title="数字频道",国学频道
+#EXTINF:-1 tvg-name="国学" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/国学频道.png" group-title="数字频道",国学
 rtsp://222.161.218.244/PLTV/88888888/224/3221225781/10000100000000060000000014254032_0.smil
-#EXTINF:-1 tvg-name="茶" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/茶频道.png" group-title="数字频道",茶频道
+#EXTINF:-1 tvg-name="茶" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/茶频道.png" group-title="数字频道",茶
 rtsp://222.161.218.244/PLTV/88888888/224/3221225874/10000100000000060000000015948529_0.smil
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/快乐垂钓.png" group-title="数字频道",快乐垂钓
 rtsp://222.161.218.244/PLTV/88888888/224/3221226215/10000100000000060000000015948526_0.smil
-#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/汽摩频道.png" group-title="数字频道",汽摩频道
+#EXTINF:-1 tvg-name="汽摩" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/汽摩频道.png" group-title="数字频道",汽摩
 rtsp://222.161.218.244/PLTV/88888888/224/3221225797/10000100000000060000000014254508_0.smil
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/睛彩竞技.png" group-title="数字频道",睛彩竞技
 rtsp://222.161.218.244/PLTV/88888888/224/3221226025/10000100000000060000000015242255_0.smil
