@@ -251,7 +251,7 @@ rtsp://222.161.218.244/PLTV/88888888/224/3221226079/1000010000000006000000001541
 rtsp://222.161.218.244/PLTV/88888888/224/3221225818/10000100000000060000000015046817_0.smil
 #EXTINF:-1 tvg-name="白山2旅游生活" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/白山2旅游生活.png" group-title="地方频道",白山2旅游生活
 rtsp://222.161.218.244/PLTV/88888888/224/3221225816/10000100000000060000000015046818_0.smil
-#EXTINF:-1 tvg-name="抚松综合" group-title="地方频道",抚松综合
+#EXTINF:-1 tvg-name="抚松综合" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/抚松综合.png" group-title="地方频道",抚松综合
 rtsp://222.161.218.244/PLTV/88888888/224/3221226187/10000100000000060000000015585160_0.smil
 #EXTINF:-1 tvg-name="临江" tvg-logo="https://cdn.gh-proxy.com/https://raw.githubusercontent.com/taoqixfz/pltv/main/local/临江.png" group-title="地方频道",临江
 rtsp://222.161.218.244/PLTV/88888888/224/3221226189/10000100000000060000000015585159_0.smil
