@@ -34,11 +34,11 @@ http://222.161.218.244/PLTV/88888888/224/3221225854/1000010000000006000000001531
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/16.png" group-title="央视频道",CCTV16
 http://222.161.218.244/PLTV/88888888/224/3221226241/10000100000000060000000016498536_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/16超高清.png" group-title="央视频道",CCTV16
-#http://222.161.218.244/PLTV/88888888/224/3221225902/10000100000000060000000016498622_0.smil/index.m3u8?fmt=ts2hls
+http://222.161.218.244/PLTV/88888888/224/3221225902/10000100000000060000000016498622_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/17.png" group-title="央视频道",CCTV17
 http://222.161.218.244/PLTV/88888888/224/3221225801/10000100000000060000000014274940_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/超高清.png" group-title="央视频道",CCTV4K
-#http://222.161.218.244/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil/index.m3u8?fmt=ts2hls
+http://222.161.218.244/PLTV/88888888/224/3221225761/10000100000000060000000014254011_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/美洲.png" group-title="央视频道",CCTV4美洲
 http://222.161.218.244/PLTV/88888888/224/3221225894/10000100000000060000000016336632_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/cctv/欧洲.png" group-title="央视频道",CCTV4欧洲
@@ -64,7 +64,7 @@ http://222.161.218.244/PLTV/88888888/224/3221225900/1000010000000006000000001633
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/北京卫视.png" group-title="卫视频道",北京卫视
 http://222.161.218.244/PLTV/88888888/224/3221225811/10000100000000060000000014274961_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/北京卫视4K超高清.png" group-title="卫视频道",北京卫视
-#http://222.161.218.244/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil/index.m3u8?fmt=ts2hls
+http://222.161.218.244/PLTV/88888888/224/3221225524/10000100000000060000000000029584_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/北京纪实科教.png" group-title="卫视频道",北京纪实科教
 http://222.161.218.244/PLTV/88888888/224/3221225508/10000100000000060000000000029576_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/卡酷少儿.png" group-title="卫视频道",卡酷少儿
@@ -122,11 +122,11 @@ http://222.161.218.244/PLTV/88888888/224/3221226061/1000010000000006000000001541
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/广东卫视.png" group-title="卫视频道",广东卫视
 http://222.161.218.244/PLTV/88888888/224/3221225815/10000100000000060000000014274978_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/广东卫视4K超高清.png" group-title="卫视频道",广东卫视
-#http://222.161.218.244/PLTV/88888888/224/3221225856/10000100000000060000000015317264_0.smil/index.m3u8?fmt=ts2hls
+http://222.161.218.244/PLTV/88888888/224/3221225856/10000100000000060000000015317264_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/深圳卫视.png" group-title="卫视频道",深圳卫视
 http://222.161.218.244/PLTV/88888888/224/3221225819/10000100000000060000000014274983_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/深圳卫视4K超高清.png" group-title="卫视频道",深圳卫视
-#http://222.161.218.244/PLTV/88888888/224/3221225512/10000100000000060000000000029578_0.smil/index.m3u8?fmt=ts2hls
+http://222.161.218.244/PLTV/88888888/224/3221225512/10000100000000060000000000029578_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/青海卫视.png" group-title="卫视频道",青海卫视
 http://222.161.218.244/PLTV/88888888/224/3221225562/10000100000000060000000000029646_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://ghproxy.fangkuai.fun/https://raw.githubusercontent.com/taoqixfz/pltv/main/satellite/西藏卫视.png" group-title="卫视频道",西藏卫视
