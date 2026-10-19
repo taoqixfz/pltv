@@ -362,5 +362,4 @@ http://139.215.98.88/PLTV/88888888/224/3221226125/100001000000000600000000154462
 #EXTINF:-1 tvg-name="家有购物" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/家有购物.png" group-title="数字频道",家有购物
 http://139.215.98.88/PLTV/88888888/224/3221225759/10000100000000060000000014254010_0.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="聚鲨环球精选" tvg-logo="https://v6.gh-proxy.org/https://raw.githubusercontent.com/taoqixfz/pltv/main/digital/聚鲨环球精选.png" group-title="数字频道",聚鲨环球精选
-
 http://139.215.98.88/PLTV/88888888/224/3221225763/10000100000000060000000014254013_0.smil/index.m3u8?fmt=ts2hls
